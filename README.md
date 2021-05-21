@@ -1,30 +1,18 @@
-# «2.1. Системы контроля версий» - Иван Мельников - DEVSYS-9
+# «2.2. Основы Git» - Иван Мельников - DEVSYS-9
 
-## Задание №1 - Создать и настроить репозиторий для дальнейшей работы на курсе
-Описание шаблона файла .gitignore:
+## Задание №1 – Знакомимся с gitlab и bitbucket
+Ссылки на репозитории:
+- GitHub: https://github.com/inqdotexe/devops-netology/
+- GitLub: https://gitlab.com/inqdotexe/devops-netology/
+- BitBucket: https://bitbucket.org/inqdotexe/devops-netology/src/main/
 
-`**/.terraform/*`
-Все файлы в каталоге _.terraform_
+## Задание №2 – Теги
+Выполнено.
+https://github.com/inqdotexe/devops-netology/releases
 
-`*.tfstate
-*.tfstate.*`
-Файлы с расширением _.tfstate_, а также с префиксом в имени _.tfstate._
+## Задание №3 – Ветки
+Выполнено.
+https://github.com/inqdotexe/devops-netology/network
 
-`crash.log`
-Файл crash.log
-
-`*.tfvars`
-Файлы с расширением _.tfvars_
-
-`override.tf
-override.tf.json
-*_override.tf
-*_override.tf.json`
-Файлы _override.tf_ и _override.tf.json_, а также с окончанием в имени __override.tf_ и __override.tf.json_
-
-`.terraformrc
-terraform.rc`
-Файлы с расширением _.terraformrc_, а также файл _terraform.rc_
-
-## Задание №2 – Знакомство с документаций
+## Задание №4 – Упрощаем себе жизнь
 Выполнено.
