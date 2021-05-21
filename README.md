@@ -22,4 +22,3 @@ override.tf.json
 `.terraformrc
 terraform.rc`
 Файлы с расширением _.terraformrc_, а также файл _terraform.rc_
-
